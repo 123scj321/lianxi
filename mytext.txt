@@ -1,2 +1,3 @@
 this is my first git file,
 I hope I will become better.
+my favorite activity is code,running,trip
